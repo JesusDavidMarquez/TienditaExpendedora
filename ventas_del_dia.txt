@@ -1,0 +1,21 @@
+Fecha y hora: 01-12-2024 13:37:37
+Productos comprados:
+Dr. Pepper
+Cheetos
+Total: 28.0
+
+----------------------
+Fecha y hora: 01-12-2024 13:38:01
+Productos comprados:
+Gansitos
+Ruffles
+Coca-Cola
+Total: 34.25
+
+----------------------
+Fecha y hora: 01-12-2024 13:38:15
+Productos comprados:
+Pepsi
+Total: 14.0
+
+----------------------
