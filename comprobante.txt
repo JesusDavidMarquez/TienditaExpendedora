@@ -1,0 +1,3 @@
+Productos comprados:
+Pepsi
+Total: 14.0
